@@ -31,7 +31,7 @@ Desarrollador enfocado en crear soluciones de software, sistemas web y proyectos
 > Sistema listo ✓
 ```
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 - 💻 Desarrollo de aplicaciones web y sistemas empresariales.
 - 🗄️ Trabajo con bases de datos y APIs.
@@ -39,7 +39,7 @@ Desarrollador enfocado en crear soluciones de software, sistemas web y proyectos
 - ⚙️ Automatización y desarrollo de herramientas.
 - 🌱 Siempre aprendiendo nuevas tecnologías.
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 ### Lenguajes
 `Java` `JavaScript` `TypeScript` `PHP` `Python` `C#` `SQL`
@@ -50,7 +50,7 @@ Desarrollador enfocado en crear soluciones de software, sistemas web y proyectos
 ### Bases de datos
 `MySQL` `PostgreSQL` `SQL Server` `SQLite`
 
-## 📂 Proyectos
+##  Proyectos
 
 Algunos de los proyectos en los que trabajo incluyen:
 
@@ -67,21 +67,59 @@ Algunos de los proyectos en los que trabajo incluyen:
 Code → Build → Test → Deploy → Repeat
 ```
 
-## 🎯 Objetivo
 
-Seguir desarrollando software, participar en proyectos colaborativos y crear soluciones tecnológicas útiles y eficientes.
 
----
 
-```bash
-$ whoami
-adminirp1
+ <div align="center">
 
-$ status
-ONLINE ✓
+   
 
-$ code
-EVERYWHERE
-```
+  ![rainbow](https://github.com/Chmod351/Chmod351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
 
-⭐ Gracias por visitar mi perfil.
+  
+
+
+
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isairey&theme=vue" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isairey&theme=vue&cache_seconds=762" />
+
+</p>
+
+
+
+ <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=isairey&cache_seconds=5887"/>
+ </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isairey&theme=github-light&hide_border=true&cache_seconds=288" />
+</p>
+
+![Shehanka snake gif](https://github.com/Shehanka/Shehanka/blob/output/github-contribution-grid-snake.svg)
+
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=273)-->
+
+
+<div align="center">
+<!-- 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=328" />
+</p>
+-->
+
+<a href="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=587">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=227"/>
+</a>
+<!--
+<a href="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=32">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=32"/>
+</a>
+-->
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=528">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=525"/>
+</a>
+
+</div>
