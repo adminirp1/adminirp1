@@ -71,7 +71,6 @@ Code → Build → Test → Deploy → Repeat
  <div align="center">
 
    
-
   ![rainbow](https://github.com/Chmod351/Chmod351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
 
   
