@@ -65,9 +65,6 @@ Algunos de los proyectos en los que trabajo incluyen:
 Code → Build → Test → Deploy → Repeat
 ```
 
-
-
-
  <div align="center">
 
    
