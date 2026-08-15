@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # 👨‍💻 adminirp1
-
+-->
 ## 👋 Hola, soy adminirp1
 
 Desarrollador enfocado en crear soluciones de software, sistemas web y proyectos tecnológicos.
