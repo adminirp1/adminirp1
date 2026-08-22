@@ -78,14 +78,14 @@ Code → Build → Test → Deploy → Repeat
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adminirp1&theme=vue" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adminirp1&theme=vue&cache_seconds=723" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adminirp1&theme=vue&cache_seconds=7223" />
 
 </p>
 
 
 
  <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adminirp1&cache_seconds=3239"/>
+  <img src="https://streak-stats.demolab.com/?user=adminirp1&cache_seconds=32329"/>
  </p>
 
 <p align="center">
