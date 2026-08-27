@@ -80,18 +80,18 @@ Code → Build → Test → Deploy → Repeat
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adminirp1&theme=vue" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adminirp1&theme=vue&cache_seconds=2453" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adminirp1&theme=vue&cache_seconds=253" />
 
 </p>
 
 
 
  <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adminirp1&cache_seconds=322"/>
+  <img src="https://streak-stats.demolab.com/?user=adminirp1&cache_seconds=3272"/>
  </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adminirp1&theme=github-light&hide_border=true&cache_seconds=257" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adminirp1&theme=github-light&hide_border=true&cache_seconds=2757" />
 </p>
 
 ![Shehanka snake gif](https://github.com/Shehanka/Shehanka/blob/output/github-contribution-grid-snake.svg)
@@ -106,16 +106,16 @@ Code → Build → Test → Deploy → Repeat
 </p>
 -->
 
-<a href="https://github-stats-extended.vercel.app/api?username=adminirp1&show_icons=true&theme=default&hide_border=true&cache_seconds=2567">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=adminirp1&show_icons=true&theme=default&hide_border=true&cache_seconds=2562"/>
+<a href="https://github-stats-extended.vercel.app/api?username=adminirp1&show_icons=true&theme=default&hide_border=true&cache_seconds=267">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=adminirp1&show_icons=true&theme=default&hide_border=true&cache_seconds=252"/>
 </a>
 <!--
 <a href="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=32">
   <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=32"/>
 </a>
 -->
-<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=adminirp1&layout=compact&theme=default&hide_border=true&cache_seconds=3653">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adminirp1&layout=compact&theme=default&hide_border=true&cache_seconds=5665"/>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=adminirp1&layout=compact&theme=default&hide_border=true&cache_seconds=353">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adminirp1&layout=compact&theme=default&hide_border=true&cache_seconds=565"/>
 </a>
 
 </div>
