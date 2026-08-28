@@ -87,7 +87,7 @@ Code → Build → Test → Deploy → Repeat
 
 
  <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adminirp1&cache_seconds=372"/>
+  <img src="https://streak-stats.demolab.com/?user=adminirp1&cache_seconds=3752"/>
  </p>
 
 <p align="center">
